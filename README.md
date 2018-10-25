@@ -1,2 +1,2 @@
-# contact-management
+# contact-management.github.io
 Contact Management App
